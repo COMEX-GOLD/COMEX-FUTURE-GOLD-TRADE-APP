@@ -1,0 +1,19 @@
+{
+  "name": "COMEX GOLD TRADING",
+  "short_name": "COMEX GOLD",
+  "description": "COMEX GOLD trading platform.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#08131d",
+  "theme_color": "#edf4ff",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
